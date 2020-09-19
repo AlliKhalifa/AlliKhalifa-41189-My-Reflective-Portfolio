@@ -2,7 +2,9 @@
 
 
 ### What have I learnt this week?
+
 ### What do I 'now know' that I did not before?
+
 ### What insights have I gained?
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
