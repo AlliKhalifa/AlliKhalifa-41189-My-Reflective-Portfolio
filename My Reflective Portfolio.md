@@ -111,7 +111,7 @@ Here the variation average will be 8.67 —> (80.67 − 78)2 = 7.1 (crowd’s er
 
 Noted that previous average prediction was 80.67 KG
 
-
+ 
 Then, I calculated ‘diversity’ based on comparison of everyone’s prediction: 
 
 - Mike: (79 − 80.67)2 = 2.8
