@@ -1,4 +1,6 @@
-
+```flow
+MY 41189 REFLECTIVE PORTFOLIO
+```
 
 ### MY 41189 REFLECTIVE PORTFOLIO below contains my thoughts about the subject ‘Introduction to Human Centred Complex System (41189), brainstorming ideas and new content that are represented in this interesting subject,  reflecting on what have I learnt from it on weekly basis; including insights I have gained form my point of view, observations, what was my weaknesses and how they became strengths after learning, how can I improve based on these learning outcomes.
 
@@ -120,6 +122,8 @@ Then, I calculated ‘diversity’ based on comparison of everyone’s predictio
 
 
 Diversity (Average Variation) will be 1.6 with a crowd error of 7.1 giving an average error of: 8.7
+
+
 
 
 
