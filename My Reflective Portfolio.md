@@ -17,9 +17,12 @@ MY 41189 REFLECTIVE PORTFOLIO
 
 # Week 2 
 
+```flow
+Introduction to Many Model Thinking'(Part 1) - The Science of Many Models (Part 2) 
+```
 
 
-### What have I learnt this week?
+### What have I learnt this week*?
 
 In reflecting upon the tutorial activities and content in this week I have gained clearer understanding of what a model is in its basic meaning and applying it to real daily life, how models makes our life easier and how models contribute toward the simplification of achieving any complex organisational or personal decisions and goals.
 
