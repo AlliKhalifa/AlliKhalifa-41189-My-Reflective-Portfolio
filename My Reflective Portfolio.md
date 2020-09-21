@@ -3,7 +3,13 @@ MY 41189 REFLECTIVE PORTFOLIO
 ```
 
 
-### MY 41189 REFLECTIVE PORTFOLIO below contains my thoughts about the subject ‘Introduction to Human Centred Complex System (41189), brainstorming ideas and new content that are represented in this interesting subject, reflecting on what have I learnt from it on weekly basis; including insights I have gained form my point of view, observations, what was my weaknesses and how they became strengths after learning, how can I improve based on these learning outcomes.
+### MY 41189 REFLECTIVE PORTFOLIO below contains 
+```flow
+- My thoughts about the subject ‘Introduction to Human Centred Complex System (41189) 
+- Brainstorming ideas and new content that are represented in this interesting subject
+- Reflecting on what have I learnt from it on weekly basis; including insights I have gained form my point of view 
+- My current observed weaknesses and how they became strengths after learning, and how can I improve based on these learning outcomes.
+```
 
 
 
