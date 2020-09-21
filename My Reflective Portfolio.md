@@ -41,13 +41,6 @@ I know now how to think models in each event/incident in life applying it to dec
 I gained new insights in experimenting life after learning about the main reasons behind the ‘Use of Models’ that are:
 
 
-```dot
-digraph G {
-A -> B
-B -> C
-B -> D
-}
-```
 
 - Reason 
 - Explain
