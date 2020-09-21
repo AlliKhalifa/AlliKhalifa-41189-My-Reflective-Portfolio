@@ -2,8 +2,8 @@
 MY 41189 REFLECTIVE PORTFOLIO
 ```
 
-### MY 41189 REFLECTIVE PORTFOLIO below contains my thoughts about the subject ‘Introduction to Human Centred Complex System (41189), brainstorming ideas and new content that are represented in this interesting subject,  reflecting on what have I learnt from it on weekly basis; including insights I have gained form my point of view, observations, what was my weaknesses and how they became strengths after learning, how can I improve based on these learning outcomes.
 
+### MY 41189 REFLECTIVE PORTFOLIO below contains my thoughts about the subject ‘Introduction to Human Centred Complex System (41189), brainstorming ideas and new content that are represented in this interesting subject, reflecting on what have I learnt from it on weekly basis; including insights I have gained form my point of view, observations, what was my weaknesses and how they became strengths after learning, how can I improve based on these learning outcomes.
 
 
 
@@ -17,21 +17,19 @@ MY 41189 REFLECTIVE PORTFOLIO
 
 In reflecting upon the tutorial activities and content in this week I have gained clearer understanding of what a model is in its basic meaning and applying it to real daily life, how models makes our life easier and how models contribute toward the simplification of achieving any complex organisational or personal decisions and goals.
 
-I also acknowledge that this week has taught me that using and creating models in daily life decisions will help: 
-
-Being an intelligent citizen of the world and improve business intelligence
-Think clearer
-Understand how to read data structures and how they are formed
-Design, strategise and design 
-
-Other key learnings include:
-
-Finding simplicity in complexity
-The science behind the ‘Many Models’ concept and how it is used to simplify human centred complex systems 
-The Wisdom Hierarchy
+I also acknowledge that this week helped me to understand using and creating models in daily life decisions will help: 
 
 
+Topics | Key Learnings
+------------ | -------------
+Models | Data Organiser - Use of Models - Finding simplicity in complexity
+Types of Models | 3 Techniques: Embodiment, anology, alternative reality approach
+Using Models|7 Types: Reason, Explain, Design, Communicate, Act, Predict,Explore
+The Wisdom Hierarchy | putting ‘Many Models’ into one use concept and how it is used to simplify human centred complex systems
+Understanding data structures| Design, strategise and design 
 
+ 
+ 
 
 ### What do I 'now know' that I did not before?
 
@@ -41,6 +39,15 @@ I know now how to think models in each event/incident in life applying it to dec
 ### What insights have I gained?
 
 I gained new insights in experimenting life after learning about the main reasons behind the ‘Use of Models’ that are:
+
+
+```dot
+digraph G {
+A -> B
+B -> C
+B -> D
+}
+```
 
 - Reason 
 - Explain
