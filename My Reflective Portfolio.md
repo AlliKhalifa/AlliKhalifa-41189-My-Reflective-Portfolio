@@ -450,7 +450,7 @@ examples on the ‘Big Coefficient vs New Reality Thinking’|
 
 ### What do I 'now know' that I did not before?
 
-I learnt about different types of distributions where I knew about the normal distribution in its basic definitions and rules, but I was newly introduced to other types of distributions, and most important ho to apply such distributions in several systems (i.e. Socio-technical Systems), I was introduced to the power laws (its parameters and models) as well  as I linear variables where the new part for me to learn in the this section was the (Multiple variables) concept in the ‘Linear Models’ using linear modelling techniques in a non-linear world that we live in; (fitting these techniques into non-linear functions).
+I learnt about different types of distributions where I knew about the normal distribution in its basic definitions and rules, but I was newly introduced to other types of distributions, and most important ho to apply such distributions in several systems **(i.e. Socio-technical Systems)**, I was introduced to the power laws (its parameters and models) as well as a linear variables where the new part for me to learn in the this section was the (Multiple variables) concept in the ‘Linear Models’ using linear modelling techniques in a non-linear world that we live in; (fitting these techniques into non-linear functions).
 
 
 
@@ -483,16 +483,23 @@ For my future lessons or even in my career, if the context of explaining a new c
 ### What theory proved to be useful and why? What have I learnt from this?
 
 
-After learning this week’s concepts about linear & non-linear functions and how powerful and useful *Linear Regression* might be applying it to real world issue like our current pandemic COVID-19, that I thought about right after the lecture finished; which has proven its  
+After learning this week’s concepts about linear & non-linear functions and how powerful and useful **Linear Regression** might be applying it to real world issue like our current pandemic COVID-19, that I thought about right after the lecture finished; which has proven its  
 
-For example in *multiple linear regression model* in: 
 
- *Predicting the impact of COVID-19 on AUSTRALIAN UNIVERSITIES: (calculating data by Australian Department of Education) —> 
+*For example in: *
 
-*predicting its impacts on:* 
-Revenue (decreased) - Dependent Variable
-Number of international students enrolments (decrease) - Independent Variable
-Number of Full time positions at the universities (negatively affected) - Independent Variable
+multiple linear regression model
+-----------------------|
+
+**Predicting the impact of COVID-19 on AUSTRALIAN UNIVERSITIES:** 
+*(calculating data by Australian Department of Education):*
+
+
+**predicting its impacts on:**
+
+- Revenue (decreased) - Dependent Variable
+- Number of international students enrolments (decrease) - Independent Variable
+- Number of Full time positions at the universities (negatively affected) - Independent Variable
 
 
 
@@ -512,32 +519,34 @@ How Complex Systems Evolve in Time
 
 ### What have I learnt this week?
 
-*My learnings for this week is outlying in the key points below: 
-
-*Path Dependence*: how the probability of the outcome depend upon the sequence of past outcomes
+```flow
+My learnings for this week is outlying in the key points below: 
+```
+**Path Dependence:** how the probability of the outcome depend upon the sequence of past outcomes
 Path dependent outcomes
 Path dependent equilibrium
 
 
-*Urn Models* :
+**Urn Models:**
 Bernoulli
 Polya Process 
 Balancing
 
-*Random Walks*
+**Random Walks**
 Finite memory random walks 
 Math  behind random walks concept
 
-*Concavity and Convexity in (Growth)*
+**Concavity and Convexity in (Growth)**
 Four Models of Economic growth: 
 Exponential growth 
 Economic growth (using a primitive economy growth model)
 Solow’s growth model
 Extensions (continuity of growth)
 
-*Effects of Broadcast, Diffusion, Contagion on spreading information/diseases, etc.*
+- Effects of Broadcast
+- Diffusion, Contagion on spreading information/diseases, etc.
 
-*Markov Process*
+**Markov Process**
 * *Equlibrium: how Lyapunov functions map models outcomes*
 
 
