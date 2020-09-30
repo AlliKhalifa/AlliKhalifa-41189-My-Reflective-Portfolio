@@ -618,7 +618,7 @@ Coordination and Consistency
 **Social Learning: Replicator Dynamics:**
 -------------------------------|
  Replicator Equation:
- - Fisher's Theorem
+ Fisher's Theorem
 
 
 
