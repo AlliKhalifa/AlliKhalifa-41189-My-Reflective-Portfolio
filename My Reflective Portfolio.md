@@ -135,9 +135,11 @@ Diversity (Average Variation) will be 1.6 with a crowd error of 7.1 giving an av
 
 
 
+# Week 3  
 
-# Week 3   .. dot … TITLE FOR EACH WEEK
-
+```flow
+ A Supermarket of Models - People
+```
 
 
 ### What have I learnt this week?
@@ -146,16 +148,13 @@ For me this week was very useful and significant as I developed new learnings ab
 
 
 
-*Rational*: How people use the ‘Optimise to Maximise’ concept in order to optimise for their goals
-*Behavioural*: that uses observations of human behaviours, modelling them as close as possible in order to predict
-*Rule-Based*: learnt interesting content about rule based in how psychology is used to understand some rules that people seems to be using predicting how they will (i.e. The Schelling model)
+> *Rational*: How people use the ‘Optimise to Maximise’ concept in order to optimise for their goals
+> *Behavioural*: that uses observations of human behaviours, modelling them as close as possible in order to predict
+> *Rule-Based*: learnt interesting content about rule based in how psychology is used to understand some rules that people seems to be using predicting how they will (i.e. The Schelling model)
 
 
-Decision making: 
-
-
-Signalling: learnt about its types (Continous & Discrete) but what more caught my attention is the ‘The girl in the foyer’ story that was one of the best stories that I read in long time, maybe because it relates to us as student going through our internships and looking for our experience in the near future, but what a great example to show the idea behind signalling, throwing herself  into the lion’s den to achieve her goal, which formed the ‘Costly Signalling Theory’
-Value and Power: I learnt in this concept how that the collective output cannot be separated into individual components, how do we divide values and how it contributes toward the whole game value.
+> *Signalling*: learnt about its types (Continous & Discrete) but what more caught my attention is the ‘The girl in the foyer’ story that was one of the best stories that I read in long time, maybe because it relates to us as student going through our internships and looking for our experience in the near future, but what a great example to show the idea behind signalling, throwing herself  into the lion’s den to achieve her goal, which formed the ‘Costly Signalling Theory’
+> *Value and Power*: I learnt in this concept how that the collective output cannot be separated into individual components, how do we divide values and how it contributes toward the whole game value.
 
 
 
@@ -232,6 +231,7 @@ Because I was not confident about some topics represented in this module such as
 I have learned about the Rule-based model, the Schelling model for example, this is very essential knowledge for me, I found it useful and effective; where the rules that are set in our life as humans sometimes are simplifying the complexity in the ‘model’ itself through fixed and adaptive types in either Gradient-based method or the Evolutionary strategy. 
 
 Personal Experience: And a situation that happened with me experiencing the (Fixed Rule) was how I had to take the same route driving to work from points (A) —> (B) through normal route that takes 40 minutes and then *Adaptive Rule* applied here, when I was taking with me in the car my colleague who is my neighbour as well due to an issue in his car where he suggests with reasons why I should take the M5 motorway to get to work where it takes us 28 minutes and we had to take it and here I had to adapt to this rule/decision and it was actually better idea, that was a great experience for me to practice this concept in real life !
+
 
 
  
