@@ -306,3 +306,99 @@ It is always a good idea in any..or when..  to take the context of a current sit
 
 
 
+
+# Week 5 - 
+
+
+```flow
+Aggregating Decision and Behaviour
+```
+
+
+### What have I learnt this week?
+
+My learnings this week was … which included some very useful points that I always wanted to go through: 
+
+1. *’Probability Distributions’*, for me understanding probability distributions was based on understanding: 
+
+Aggregation
+Why probability and (why-where-when) do we use it 
+How distributions is applied illustrated by real life examples (i.e blood type example)
+Random variables and its types (Discrete & Continuous)
+Usefulness of probability distributions in predictions and its proved statistics.
+
+
+1.1 Normal Distributions: 
+The bell curve (Mean = Mode = Median)
+Normal distributions variables (9 useful examples on close variables)
+The logic behind the equal distributions of variables through three types of distributions used : Normal, Bell Curve or Gaussian distributions in an order of (Low IQ < Average IQ > High IQ)
+
+1.2 Central limit Theorem: 
+1.3 Applying distribution knowledge to socio-technical systems
+1.4 Testing significance of mean values by using the regularity of the ‘normal distribution’
+1.5 Six Segma quality control and how it applies in normal distributions
+
+2. *Power Law Distributions * which described by *Long/Heavy-tailed-Distributions 
+* 2.1 Power laws (y = Cx^-a)
+2.2 Power laws Parameters (a) which is the slope of the distributions
+2.3 Zipf’s laws
+2.4. Power Laws Models
+2.5. Significance of Long Tail Distributions and how its described for beginners (Equity, Catastrophes) 
+
+3. *Linear Variables*
+3.1. Linear Regression
+3.2 Sign, Significance, and Magnitude.
+3.3 Multiple Variables
+3.4 examples on the ‘Big Coefficient vs New Reality Thinking’
+
+
+
+### What do I 'now know' that I did not before?
+
+I learnt about different types of distributions where I knew about the normal distribution in its basic definitions and rules, but I was newly introduced to other types of distributions, and most important ho to apply such distributions in several systems (i.e. Socio-technical Systems), I was introduced to the power laws (its parameters and models) as well  as I linear variables where the new part for me to learn in the this section was the (Multiple variables) concept in the ‘Linear Models’ using linear modelling techniques in a non-linear world that we live in; (fitting these techniques into non-linear functions).
+
+
+
+### What insights have I gained?
+
+In this week I have gained new insights on how to use the ‘Implications of long tails’ to get a more accurate prediction of the sizes of a particular event, for example on earthquake where we know what to expect in case of this earthquake happens and to avoid the bad effects resulting from this earthquake at least.
+
+
+
+
+
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+My weaknesses relied in understating the normal distribution concept, even though it seems straight forward where I had to give myself examples from several real world problems and real world events to understand it mechanism. 
+This resulted in me gaining new strengths on how to apply this knowledge of distributions to socio-technical systems, 
+
+
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+Understating the CLT (central limit theorem) was a bit challenging for me at the beginning and this due to missing knowledge on how ‘Normal Distribution’ works and where it applies
+By watching the video posted in the lecture slides especially the video (The central limit theorem - Clearly explained) and especially going back to understanding the concept of ‘Normal Distribution’ and the logic behind it and knowing how to take ‘samples’, plot the related ‘distributions’ and calculate the ‘sample mean’ I was able then to form a solid understanding on where CLT applies and how to use it.
+
+### What would I do better next time and with what anticipated results?
+
+For my future lessons or even in my career, if the context of explaining a new concept related to normal distribution, then I would convince myself to take a pre-requisite understanding on what it means and then jump to it’s techniques (gathering samples - calculating mean and SD - and defining its category based on results)
+
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+
+After learning this week’s concepts about linear & non-linear functions and how powerful and useful *Linear Regression* might be applying it to real world issue like our current pandemic COVID-19, that I thought about right after the lecture finished; which has proven its  
+
+For example in *multiple linear regression model* in: 
+
+ *Predicting the impact of COVID-19 on AUSTRALIAN UNIVERSITIES: (calculating data by Australian Department of Education) —> 
+
+*predicting its impacts on:* 
+Revenue (decreased) - Dependent Variable
+Number of international students enrolments (decrease) - Independent Variable
+Number of Full time positions at the universities (negatively affected) - Independent Variable
+
+
+
+
