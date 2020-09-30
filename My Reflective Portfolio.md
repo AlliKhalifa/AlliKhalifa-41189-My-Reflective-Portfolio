@@ -315,10 +315,16 @@ _ Path length
 - Logic + ways a network can form: 
 
 
- Random             Small World             Lattice
------------|       --------------|       -----------|
+ Random           
+-----------|    
 
-and its functionality from **6 'Degree of Separation Form'** to **'Random Clique Network'**
+Small World 
+--------------|      
+
+Lattice
+-----------|
+
+And its functionality from **6 'Degree of Separation Form'** to **'Random Clique Network'**
 
 
 
@@ -335,17 +341,22 @@ I always thought I know what system thinking is based on ‘intuition’ but aft
 New insights I have gained and some key learning points are in:
 
 
-* System Dynamics: this concept introduced me to system-dynamics models that uses interdependencies and feedback to analyse the ‘system’ // NSERT CAHRT HERE that consists (sources, sinks, stocks, flows, rates, and constants) as well as I understood in depth and by examples what a system is and what does it consist of, to thinking in terms of systems how to acknowledge the fact that everything around us is *interconnected* and how all these small seperate parts connect together forming the system, and taking into consideration the *System Boundary* 
+* **System Dynamics**: this concept introduced me to system-dynamics models that uses interdependencies and feedback to analyse the ‘system’ that consists of: 
 
+- *Sources*
+- *Sinks*
+- *Stocks*
+- *Flows*
 
+I understood as well in depth and by examples what a system is and what does it consist of, to **thinking in terms of systems** how to acknowledge the fact that everything around us is **interconnected** and how all these small seperate parts connect together forming the system, and taking into consideration the **System Boundary**
 
 
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
 
-I have noticed throughout this week from my strengths that I feel confident 
-And my noticed weakness were th
+I have noticed throughout this week from my strengths that I feel confident about how to think in systems and the structure of systems in terms of Systems Dynamics after it was one of my weaknesses understanfing it.
+
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
@@ -359,12 +370,21 @@ Based on the challenges and weaknesses noticed this week, and taking the advanta
 
 ### What theory proved to be useful and why? What have I learnt from this?
 
-It is always a good idea in any..or when..  to take the context of a current situate or current traditions, and nowadays as we more and more reliable on the internet day after day and this is due to its strong, solid, and smart infrastructure, this infrastructure uses ‘Networks’ as a core to connect devices and people that keeps the whole world running. ‘Network Theory’ has proven its importance and usefulness, and the reason is those graph theories used, and the *Networks Structures* that forms a network playing a vital role in making network theory useful and solving its problems; to the *Logic of Network Formation* and how agents (nodes) make their decisions in connecting to other agents forming i.e. random, small-world, and lattice networks, and how when these nodes interact forming a *Network Function*, and this is very useful in the case of our current pandemic in fighting the virus and in a try to contain it faster and wiser as the example given on ‘Vaccination’ of the highly connected people in the society, like bus drivers, and teachers.
+It is always a good idea in any reflective writing to take the context of a current situate or current traditions (Currency), and nowadays as we more and more reliable on the internet day after day and this is due to its strong, solid, and smart infrastructure, this infrastructure uses **‘Networks’** as a core to connect devices and people that keeps the whole world running. 
 
+Network Theory    
+---------------| 
+This theory has proven its importance and usefulness, and the reason is those graph theories used, and the 
 
+Network Structures   
+-------------------| 
+that forms a network playing a vital role in making network theory useful and solving its problems;
 
+Then comes: 
 
-
+Logic of Network Formation  
+-------------------| 
+and how agents (nodes) make their decisions in connecting to other agents forming i.e. random, small-world, and lattice networks, and how when these nodes interact forming a **Network Function**, and this is very useful in the case of our current pandemic in fighting the virus and in a try to contain it faster and wiser as the example given on ‘Vaccination’ of the highly connected people in the society, like bus drivers, and teachers.
 
 
 
