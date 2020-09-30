@@ -288,8 +288,12 @@ Representing human-centred complex systems
 
 Based on this week’s learning outcome, I can say I have significantly improved my knowledge on the basic definition of a system and **system thinking** to **System Dynamics** models, learned more about their goal which is going 'feedbacks' (positive & negative) and 'interdependencies' to analyse a certain system, as well as identifying the system’s boundaries such as 
 
-swimming  pool   the ocean analogy
----------------| -----------------
+
+Swimming Pool   
+----------------| 
+
+The Ocean Analogy
+-----------------|
 
 
 As well as how edges are clearly defined in the pool and stepping to the ocean (complex/larger system) after knowing how to think in systems in small system first with clear boundaries, illustrated by diagrams such as:
@@ -307,14 +311,14 @@ into **Networks** theory, its:
 - Degree
 _ Path length
 - Connectedness
-- Clustering coefficien              Random             Random             Lattice
-- Logic + ways a network can form: ----------------|---------------|----------------|
-
-and its functionality (from **6 Degree of Separation form** to **Random Clique Network**
+- Clustering coefficien             
+- Logic + ways a network can form: 
 
 
+ Random             Small World             Lattice
+-----------|       --------------|       -----------|
 
-
+and its functionality from **6 'Degree of Separation Form'** to **'Random Clique Network'**
 
 
 
