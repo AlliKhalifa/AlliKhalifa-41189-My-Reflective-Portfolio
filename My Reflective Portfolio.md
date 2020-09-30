@@ -24,8 +24,9 @@ MY 41189 REFLECTIVE PORTFOLIO
 
 ### What have I learnt this week?
 
+```flow
 Upon reading and going through this week’s lecture I learned about bunch of concepts summarised in: 
-
+```
 
 - What a system is : 
 
@@ -56,9 +57,9 @@ Interfaces|
 
 **Complex Adaptive Systems:**
 -------------------------------|
-- Complex Adaptive Behaviour|
-- Understanding the parts = Understanding the Whole|
-- Part A - Part B - Part C - etc... ---> WHOLE SYSTEM|
+- Complex Adaptive Behaviour
+- Understanding the parts = Understanding the Whole
+- Part A - Part B - Part C - etc... ---> WHOLE SYSTEM
 
 
 **Social worlds and the role of humans in Complex Adaptive Systems**
@@ -69,46 +70,52 @@ Interfaces|
 
 ### What do I 'now know' that I did not before?
 
-What I knew this week that I didn’t know before is the Replicator equation under the topic of Replicator dynamics that divides into three different disciplines:
-
-- Psychology in order to model learning
-- Economics that works on modelling population on people’s learn ing
-- Ecology that models evolution
+Looking back at what i learned this week I can say I have gained new set of knwoledge about the System, new topic on me was the **Idea of Complex Systems** where I learned new concept on the Beehive exapmle and how bees communiacte and every bee has its role inside their own system to acheive their overall goal. 
 
 
 ### What insights have I gained?
 
-I have obtained new insights about ‘Characterising Culture’ its survival , self-expression, traditional, and secular rational values and how to compare them graphically using geographical points showing people from different cultural backgrounds
+```flow
+For me I have obtained new point of view about: 
+```
 
+**Complex Systems Concept:**
+-------------------------------|
+After that lecture and after watching **TED Talk video on What is a complex system? for Karoline Wiesner & James Ladyman** I started observing everything around me and see how we are all part of the system, observing as well many other systems (economical system) especially at the gym on the treadmill machine when the screen showed some data on my (cardiovascular system) where I started visualsing what I took in class and at least I have some idea behind the structure and function of a system
 
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
-Before my learnings in this week, and due to the promise I told myself to prepare on every week before the lecture starts I had to prepare as a pre-work on this week’s topic **‘Culture & Coordination’** but still my weakness showed up like on how ‘pure coordination model works’ which I then understood through the examples given in the lecture slides which were very interesting and easy to understand (Ketchup Question - Electric Plug -Driving on the Left and right).
+
+```flow
+My weaknesses this week were represented in the topic (Complex Adaptive Systems)
+```
+
+After doing the workshop and completing the weekly discussion on the canvas discusion board, I had an insight and understanding of what it means and how its formed and was able to give examples on it, I believe from this learning I gained new knowledge that added to my strength.
 
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
-Some topics were challenging for me to understand was the replicator equation, where I had to decompose it and substitute in numbers from real scenario related to social learning in order to understand it.
+Some of the challenges I have encountered this week were understanding the examples related to the Complex Adaptive Systems' topic
+
+```flow
+* examples like:
+```
+- *Bee Hive*
+- *Standing Ovation*
+
+But posting my discussion on the discusison borad has helped me deal with it, as I felt I'm writing something in order for the audience (student & Tutor/Coordinator) want to read and understand what is my point of view and opinion, this practice has helped in understanding both examples and was able to write my own personla experience related to these expamles.
 
 
 ### What would I do better next time and with what anticipated results?
 
-I see improvement needs to be done for the next time is to focus efforts on understating the concept basics first before going to the statistics of it, by other words to understand what each topic is talking about , how it applies on our context and then understand the **WHY** why an equation/model is needed in this model and then if this path is applied, I will guarantee understanding how related mathematical/statistical formulas work and why we should use it(importance of using it).
+A good experience I learned this week is the 'discussion borad' example, in order for me to understand some topic that I find hard inderstanding is that I will either try explain it to someone, **explaining means understanding it first** or try write my question in the Discussion Board for everyone to see it, and any one who could help, but first and most important is trying writing it on a peicce of paper or discusion borad pretending the audience waiting to read my article and understand my point of view on that topic, as I found it very useful when I done this trick week.
 
 
 
 ### What theory proved to be useful and why? What have I learnt from this?
 
-I learnt about Fisher Theorem in which was one of the theories I found interesting and super useful when it comes to 'Replicator Dynamics’, and is the first and one of the most important game dynamic studied in connection with the evolutionary game theory.
-
-I learnt as well from Fisher's Theorem how we can combine the three models:
-
-- No Cardinal Bird example 
-- Rugged Landscape
-- Replicators Dynamics
-
-
+I learned this week the **Complex Adaptive Systems**, this was useful for me as I went beyond my understanding for 'System' at its basic definiton to a more latger and complicated system liniking it to the social world and our role as human in being part of the system and controlling it or protcecting it and improving it in case of a nature created system.
 
 
 **********************************************************************************************************
