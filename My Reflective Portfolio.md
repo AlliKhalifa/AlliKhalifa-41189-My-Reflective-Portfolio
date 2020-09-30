@@ -556,3 +556,75 @@ I learnt about Fisher Theorem in which was one of the theories I found interesti
 
 
 
+
+
+
+# Week 8
+
+
+
+```flow
+Representing human-centred complex systems
+```
+
+
+### What have I learnt this week?
+
+Important elements were presented in this week’s module, where the main content was about the second part of ‘Complexity and emergent behaviour’ topic delivering three learning outcomes: 
+
+
+*i.* I learnt a strategy called (The Colonel Blotto Game) a very interesting game, which is a zero-sum game which players are meant to distribute limited given resources over different resources. 
+
+*ii.*  My second learning outcome was about cooperation illustrated through an interesting dilemma (Prisoner’s Dilemma), which is the most known game in ‘Game Theory’  where the game consists of two players who have the choice either to cooperate or they defect, which in case of cooperation both players get 4 as a payoff or 2 as a defect in the case of no cooperation, and if one of them defected, then the individual that chose to defect will get a 6 as a payoff.
+
+
+ *iii.* Ending with the third learning outcome a self study activity which was a ‘collective action problems’ talking about the real world problems and how they apply in contribution and how an individual makes choices to contribute using mathematical/statistical equations to prove that, comparing s the individual’s payoff, in case of cooperation and not cooperation using the formula:  P= xi + ∑Xj
+
+
+
+
+
+
+
+
+### What do I 'now know' that I did not before?
+
+All of the three main topic I had no previous knowledge about, even though they might be practiced daily in front us through media platforms or even in our local daily interactions and we are not aware of it
+
+
+Colonel Blotto Game : I had no idea what this game is used for and how it works, but now after playing it against my colleagues in class and taking my time of thinking of a solution, I can say I had to use some skills and the concept was settled in my mind due to this experience
+Prisoner’s Dilemma: I have The idea of …but without me noticing nut I leant about it this week especially from the examples shown in it’s slide, and specifically (Trump vs Clinton) example.
+Collective Actions Problems (Cooperation): where I learnt about how to apply the equation P= xi + ∑Xj that I didn’t know it exists and thinking that was cost cooperation and non-cooperation is estimated.
+
+
+
+
+
+
+
+
+
+### What insights have I gained?
+
+Talking about the Colonel Blotto Game I can say that form this concept I learned how to increase my chances of wining in any type of battle field applying it to real life problems
+
+
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+My weakness were represented in understanding how the Colonel Blotto Game works and what is meant to win the game (increasing chances of wining), where I had to do a lot of researches along with what I learnt in this module, and this added it to my strength especially when playing the game Dr. Juan gave us, making us think in getting a solution that has the greatest value after entering the castles, this was a very useful strategy to understand the concept 
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+One of the main challenges I have encountered was installing Jupyter lab in order to push the report in the group assignment to the Github profile of our group leader “James Turong” a day before the assignment was due
+where I tried a lot installing several versions of extension of GIT but with no good result, and eventually I had to ask Dr. Juan for help where in a private zoom session he guided me how to do it and installed the software and extensions for me and I was ready to submit and found out that my problem was using an old version of ANACONDA installed on my machine 3 years ago.
+
+
+### What would I do better next time and with what anticipated results?
+
+Based on the challenges I had in this module and the perceived strengths and weaknesses I would prepare earlier for next time and communicate with other groups on how they setup their accounts (Jupyter and GIT extensions) at least a week before the due date of the assignment, and this just avoiding the unexpected situations that might lead in late assignment submission.
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+
+A good theory I learned in this module and was proved useful was the Colonel Blotto Game theory as it is a well studied theory and my choice was due to the proven facts and results shown, and from what I learnt and from the main reason is because when we vary the two parameters of the game by changing the number of the battlefields or giving one of the players more resources than the other player we can get an insight of the likely to win players.
