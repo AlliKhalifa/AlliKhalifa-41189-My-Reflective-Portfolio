@@ -682,14 +682,13 @@ Representing human-centred complex systems
 
 
 Important elements were presented in this week’s module, where the main content was about the second part of ‘Complexity and emergent behaviour’ topic delivering three learning outcomes: 
+-------------------------------------------------------------|
+**i.** I learnt a strategy called (The Colonel Blotto Game) a very interesting game, which is a zero-sum game which players are meant to distribute limited given resources over different resources.|
+
+**ii.**  My second learning outcome was about cooperation illustrated through an interesting dilemma (Prisoner’s Dilemma), which is the most known game in ‘Game Theory’  where the game consists of two players who have the choice either to cooperate or they defect, which in case of cooperation both players get 4 as a payoff or 2 as a defect in the case of no cooperation, and if one of them defected, then the individual that chose to defect will get a 6 as a payoff.|
 
 
-**i.** I learnt a strategy called (The Colonel Blotto Game) a very interesting game, which is a zero-sum game which players are meant to distribute limited given resources over different resources. 
-
-**ii.**  My second learning outcome was about cooperation illustrated through an interesting dilemma (Prisoner’s Dilemma), which is the most known game in ‘Game Theory’  where the game consists of two players who have the choice either to cooperate or they defect, which in case of cooperation both players get 4 as a payoff or 2 as a defect in the case of no cooperation, and if one of them defected, then the individual that chose to defect will get a 6 as a payoff.
-
-
-**iii.** Ending with the third learning outcome a self study activity which was a ‘collective action problems’ talking about the real world problems and how they apply in contribution and how an individual makes choices to contribute using mathematical/statistical equations to prove that, comparing s the individual’s payoff, in case of cooperation and not cooperation using the formula:  P= xi + ∑Xj
+**iii.** Ending with the third learning outcome a self study activity which was a ‘collective action problems’ talking about the real world problems and how they apply in contribution and how an individual makes choices to contribute using mathematical/statistical equations to prove that, comparing s the individual’s payoff, in case of cooperation and not cooperation using the formula:  P= xi + ∑Xj|
 
 
 
