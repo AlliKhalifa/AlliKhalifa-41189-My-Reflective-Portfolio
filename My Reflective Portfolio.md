@@ -235,9 +235,17 @@ Because I was not confident about some topics represented in this module such as
 
 I have learned about the Rule-based model, the Schelling model for example, this is very essential knowledge for me, I found it useful and effective; where the rules that are set in our life as humans sometimes are simplifying the complexity in the ‘model’ itself through fixed and adaptive types in either Gradient-based method or the Evolutionary strategy. 
 
+Theory  | Topic
+------------ | -------------
+Rule Based Model  | Schelling Moel
+
+
 Personal Experience: And a situation that happened with me experiencing the (Fixed Rule) was how I had to take the same route driving to work from points (A) —> (B) through normal route that takes 40 minutes and then *Adaptive Rule* applied here, when I was taking with me in the car my colleague who is my neighbour as well due to an issue in his car where he suggests with reasons why I should take the M5 motorway to get to work where it takes us 28 minutes and we had to take it and here I had to adapt to this rule/decision and it was actually better idea, that was a great experience for me to practice this concept in real life !
 
-
+Model | Topic
+------------ | -------------
+Fixed  | Gradient-based method
+Adaptive | Evolutionary strategy
 
  
 
