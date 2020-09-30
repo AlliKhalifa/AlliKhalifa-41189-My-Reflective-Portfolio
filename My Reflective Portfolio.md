@@ -600,6 +600,7 @@ Complexity and Emergent Behaviour (Part 1)
 I learnt from this week’s topic () Complexity and Emergent Behaviour a bunch of concepts and .. summarised in: 
 
 **Segregation & Peer Effects:**
+-------------------------------|
 Schelling’s Segregation Mode
 Measuring Segregation
  Granovetter's Model
@@ -608,12 +609,14 @@ Measuring Segregation
 
 
 **Coordination & Culture:**
+-------------------------------|
 Introduction to culture and how it affects our behaviour according to Tyler, Boaz, & Trilling.
 Pure coordination model
 Emergence of culture
 Coordination and Consistency
 
 **Social Learning: Replicator Dynamics:**
+-------------------------------|
  Replicator Equation:
  - Fisher's Theorem
 
@@ -653,7 +656,14 @@ I see improvement needs to be done for the next time is to focus efforts on unde
 
 ### What theory proved to be useful and why? What have I learnt from this?
 
-I learnt about Fisher Theorem in which was one of the theories I found interesting and super useful when it comes to 'Replicator Dynamics’. Which is the first and one of the most important game dynamic studied in connection with the evolutionary game theory 
+I learnt about Fisher Theorem in which was one of the theories I found interesting and super useful when it comes to 'Replicator Dynamics’, and is the first and one of the most important game dynamic studied in connection with the evolutionary game theory.
+
+I learnt as well from Fisher's Theorem how we can combine the three models:
+
+- No Cardinal Bird example 
+- Rugged Landscape
+- Replicators Dynamics
+
 
  
 
@@ -670,7 +680,7 @@ Representing human-centred complex systems
 
 ### What have I learnt this week?
 
-```flow
+
 Important elements were presented in this week’s module, where the main content was about the second part of ‘Complexity and emergent behaviour’ topic delivering three learning outcomes: 
 
 
@@ -681,7 +691,6 @@ Important elements were presented in this week’s module, where the main conten
 
 **iii.** Ending with the third learning outcome a self study activity which was a ‘collective action problems’ talking about the real world problems and how they apply in contribution and how an individual makes choices to contribute using mathematical/statistical equations to prove that, comparing s the individual’s payoff, in case of cooperation and not cooperation using the formula:  P= xi + ∑Xj
 
-```
 
 
 
@@ -695,10 +704,6 @@ All of the three main topic I had no previous knowledge about, even though they 
 Colonel Blotto Game : I had no idea what this game is used for and how it works, but now after playing it against my colleagues in class and taking my time of thinking of a solution, I can say I had to use some skills and the concept was settled in my mind due to this experience
 Prisoner’s Dilemma: I have The idea of …but without me noticing nut I leant about it this week especially from the examples shown in it’s slide, and specifically (Trump vs Clinton) example.
 Collective Actions Problems (Cooperation): where I learnt about how to apply the equation ```flow P= xi + ∑Xj ``` that I didn’t know it exists and thinking that was cost cooperation and non-cooperation is estimated.
-
-
-
-
 
 
 
