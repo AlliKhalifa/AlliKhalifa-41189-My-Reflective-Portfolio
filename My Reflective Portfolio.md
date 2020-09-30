@@ -401,12 +401,8 @@ Aggregating Decision and Behaviour
 ```flow
 My learnings this week included some very useful points that I always wanted to go through: 
 ```
-
-1. **’Probability Distributions’:** for me understanding probability distributions was based on understanding: 
-
-
 ```flow
-*Aggregation:*
+Aggregation:
 ```
 - Why probability and (why-where-when) do we use it 
 - How distributions is applied illustrated by real life examples (i.e blood type example)
@@ -414,6 +410,9 @@ My learnings this week included some very useful points that I always wanted to 
 - Benifits of probability distributions in predictions and its proved statistics.
 
 
+
+1. **’Probability Distributions’:** 
+-------------------------------------| 
 1.1 Normal Distributions: 
 
 - The bell curve (Mean = Mode = Median).
@@ -422,8 +421,11 @@ My learnings this week included some very useful points that I always wanted to 
 
 - The logic behind the equal distributions of variables through three types of distributions used : **Normal, Bell Curve or Gaussian distributions** in an order of **(Low IQ < Average IQ > High IQ)**
 
-1.2 Central limit Theorem: 
 
+
+
+1.2 **Central limit Theorem:**
+-------------------------------------| 
 1.3 Applying distribution knowledge to socio-technical systems
 
 1.4 Testing significance of mean values by using the regularity of the ‘normal distribution’
@@ -432,9 +434,9 @@ My learnings this week included some very useful points that I always wanted to 
 
 
 
-2. **Power Law Distributions** which described by *Long/Heavy-tailed-Distributions 
-
-* 2.1 Power laws (y = Cx^-a)
+2. **Power Law Distributions** which described by *Long/Heavy-tailed-Distributions*
+------------------------------------------------------------------------------------| 
+2.1 Power laws (y = Cx^-a)
 
 2.2 Power laws Parameters (a) which is the slope of the distributions
 
@@ -447,7 +449,7 @@ My learnings this week included some very useful points that I always wanted to 
 
 
 3. **Linear Variables**
-
+-------------------------------------| 
 3.1. Linear Regression
 
 3.2 Sign, Significance, and Magnitude.
