@@ -95,7 +95,7 @@ I started  applying the crowd wisdom in my decision as I have started to realise
  
 Where I learnt that :
 
-- *’Crowd accuracy = individual accuracy + diversity’* 
+- **’Crowd accuracy = individual accuracy + diversity’** 
 
 where the crowd’s wisdom comes from smart people who got similar thinking with loads of diversity and how to combining the three models of individual people’s predictions (categorical, linear, Markov, Lyapunov) can lead to more accurate predictions.
 
@@ -147,14 +147,13 @@ Diversity (Average Variation) will be 1.6 with a crowd error of 7.1 giving an av
 For me this week was very useful and significant as I developed new learnings about the core ideas and dilemmas that we face daily as humans, especially for my case at my work as I go through many business processes  and how we could do it if we apply modelling, talking here about ‘Modelling people’ and how to apply it through using the following models: 
 
 
+**Rational**: How people use the ‘Optimise to Maximise’ concept in order to optimise for their goals
+**Behavioural**: this model uses observations of human behaviours, modelling them as close as possible in order to predict
+**Rule-Based**: learnt interesting content about rule based in how psychology is used to understand some rules that people seems to be using predicting how they will (i.e. The Schelling model)
 
-> *Rational*: How people use the ‘Optimise to Maximise’ concept in order to optimise for their goals
-> *Behavioural*: that uses observations of human behaviours, modelling them as close as possible in order to predict
-> *Rule-Based*: learnt interesting content about rule based in how psychology is used to understand some rules that people seems to be using predicting how they will (i.e. The Schelling model)
 
-
-> *Signalling*: learnt about its types (Continous & Discrete) but what more caught my attention is the ‘The girl in the foyer’ story that was one of the best stories that I read in long time, maybe because it relates to us as student going through our internships and looking for our experience in the near future, but what a great example to show the idea behind signalling, throwing herself  into the lion’s den to achieve her goal, which formed the ‘Costly Signalling Theory’
-> *Value and Power*: I learnt in this concept how that the collective output cannot be separated into individual components, how do we divide values and how it contributes toward the whole game value.
+**Signalling**: I learnt about its types (Continous & Discrete) but what more caught my attention is the ‘The girl in the foyer’ story that was one of the best stories that I read in long time, maybe because it relates to us as student going through our internships and looking for our experience in the near future, but what a great example to show the idea behind signalling, throwing herself  into the lion’s den to achieve her goal, which formed the ‘Costly Signalling Theory’
+**Value and Power**: I learnt in this concept how that the collective output cannot be separated into individual components, how do we divide values and how it contributes toward the whole game value.
 
 
 
@@ -173,7 +172,7 @@ Rational Actor Model: The person 1 & 2 was a good example about rational behavio
 Insert Flow here —> resulting that we can only see relational behaviour when there are : high stakes - repeated decisions - decisions from group thinking- easy choices to make 
 
 Behavioural Models: the guessing example was a great way in me understanding the ‘Anchoring Bias’ concept in how looking on first guess can affect the next guess. 
-Rule-based Models: *Fixed* and *Adaptive* rules is what I learnt new in this week where in fixed rules common sense applies, while in adaptive that divides into (Gradient-based method) & (Evolutionary Strategy).
+Rule-based Models: **Fixed** and **Adaptive** rules is what I learnt new in this week where in fixed rules common sense applies, while in adaptive that divides into (Gradient-based method) & (Evolutionary Strategy).
 
 
 
