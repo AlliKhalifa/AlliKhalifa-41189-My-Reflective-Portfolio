@@ -70,20 +70,21 @@ I have discovered a new way in how to ‘Think Outside The Box’ and use modell
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
-My current *strengths* that I have observed after this week’s learnings include, is that I had very little basic knowledge of how complex systems and how they adapt and this was only from week 1 content, as I had no knowledge about how systems and models work and consist of until I went through the theories in week’s 2 module.
+My current **strengths** that I have observed after this week’s learnings include, is that I had very little basic knowledge of how complex systems and how they adapt and this was only from week 1 content, as I had no knowledge about how systems and models work and consist of until I went through the theories in week’s 2 module.
 
 
-I acknowledge that my *weaknesses* were that before learning about this week’s content I had no idea what ‘models' are, and how decisions are made easier when applying this concept and it’s just not only simply learning a theory (i.e the many models thinking in the ‘wisdom of crowd theory’) and writing it down in an assignment or presenting it, but to go beyond that and practice it in real life where it applies. 
+I acknowledge that my **weaknesses** were that before learning about this week’s content I had no idea what ‘models' are, and how decisions are made easier when applying this concept and it’s just not only simply learning a theory. 
+(i.e the many models thinking in the ‘wisdom of crowd theory’) and writing it down in an assignment or presenting it, but to go beyond that and practice it in real life where it applies. 
 
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
-One of the challenges I have encountered was understanding why many is good, and how crowd accuracy works and calculating it, in specific the equation of the ‘diversity prediction theorem’  but after the lecture was finished I had to go over the whole module slides and going through slides from week 1 to understand some basics and along with some external sources and illustration videos from the web I was able eventually to understand the ‘Why’ of the theory
+One of the **challenges** I have encountered was understanding why many is good, and how crowd accuracy works and calculating it, in specific the equation of the ‘diversity prediction theorem’  but after the lecture was finished I had to go over the whole module slides and going through slides from week 1 to understand some basics and along with some external sources and illustration videos from the web I was able eventually to understand the ‘Why’ of the theory
 
 
 ### What would I do better next time and with what anticipated results?
 
-It was observed that going straight to the lecture without previous preparation does not work for me as I have encountered some difficulties understanding some topics from the start, with this outcome and for the future I would prefer to prepare for the slides before the lecture slides and have a at least a basic understanding on the topic provided for the week by going through not only slides but also some external materials provoided in the subject like (The model thinker: What you need to know to make data work for you) book and other books too provided on Canvas.
+It was observed that going straight to the lecture without previous preparation does not work for me as I have encountered some difficulties understanding some topics from the start, with this outcome and for the future I would prefer to prepare for the slides before the lecture starts and have a at least a basic understanding on the topic provided for the week by going through not only slides but also some external materials provoided in the subject like **(The model thinker: What you need to know to make data work for you)** book and other books too posted on Canvas.
 
 
 
@@ -189,9 +190,9 @@ Rational Actor Model: The person 1 & 2 was a good example about rational behavio
 
 Relational Model | observation
 ------------| -------------
-     A      | high stakes
-     B      | repeated decisions
-     C      |easy choice making
+     A ------->    High Stakes
+     B ------->    Repeated Decisions
+     C ------->    Eeasy Choice Making
 
 Behavioural Models: the guessing example was a great way in me understanding the ‘Anchoring Bias’ concept in how looking on first guess can affect the next guess. 
 Rule-based Models: **Fixed** and **Adaptive** rules is what I learnt new in this week where in fixed rules common sense applies, while in adaptive that divides into (Gradient-based method) & (Evolutionary Strategy).
@@ -208,13 +209,17 @@ Decision Making
 Signalling 
 Value & Power
 ```
-
+```flow
 I Discovered : 
+```
 
-The three types of people modelling **(Rational - Behavioural - Rule-based)**
+- The three types of people modelling **(Rational - Behavioural - Rule-based)**
+
 Taking into consideration the what I learnt about ‘Decision Making’ I have practiced yesterday a new technique based on module’s 3 content, is when I wanted to decide which subject to study that day, and after applying **Quantitative Decision** concept 
-That signalling was practiced every day in my life without me noticing and after noticing now I can relate to this week’s content about signalling (i.e today I noticed good example of signalling that how one muscular guy at the gym was trying to show off his muscles in front of some girl In front of him and she was signalling back to him that she likes/interested by showing him the she is looking at him)
-Value & Power: gained important knowledge on the *coalition* of players in the **Cooperative Games** example in how to assign values to participants that participate in that game by capturing collective work and joint projects and as this (cooperative game) focuses on competitions between groups, I have experienced some situation at my work where the main company that we are sub-contracting for had released their tender and another sub-contract company now is competing against us to get the contract  , this an example of how the two companies using their own marketing and competing strategies and **bargaining power** to put their hands on that contract and finally when our company has partnered with another famous tech company that helps in data entry and records, and here the **shapley Value** player was added (external tech company) to achieve that goal and get the contract.
+That signalling was practiced every day in my life without me noticing and after noticing now I can relate to this week’s content about signalling ---> (i.e today I noticed good example of signalling that how one muscular guy at the gym was trying to show off his muscles in front of some girl In front of him and she was signalling back to him that she likes/interested by showing him the she is looking at him)
+
+
+**Value & Power**: gained important knowledge on the *coalition* of players in the **Cooperative Games** example in how to assign values to participants that participate in that game by capturing collective work and joint projects and as this (cooperative game) focuses on competitions between groups, I have experienced some situation at my work where the main company that we are sub-contracting for had released their tender and another sub-contract company now is competing against us to get the contract  , this an example of how the two companies using their own marketing and competing strategies and **bargaining power** to put their hands on that contract and finally when our company has partnered with another famous tech company that helps in data entry and records, and here the **shapley Value** player was added (external tech company) to achieve that goal and get the contract.
 
 
 
@@ -297,11 +302,6 @@ I always thought I know what system thinking is based on ‘intuition’ but aft
 
 
 
-
-
-
-
-
 ### What insights have I gained?
 
 New insights I have gained and some key learning points are in:
@@ -341,7 +341,7 @@ It is always a good idea in any..or when..  to take the context of a current sit
 
 
 
-# Week 5 - 
+# Week 5
 
 
 ```flow
