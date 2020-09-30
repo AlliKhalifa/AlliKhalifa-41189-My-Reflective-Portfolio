@@ -402,3 +402,87 @@ Number of Full time positions at the universities (negatively affected) - Indepe
 
 
 
+
+
+
+
+# Week 6
+
+
+
+```flow
+How Complex Systems Evolve in Time
+```
+
+
+### What have I learnt this week?
+
+*My learnings for this week is outlying in the key points below: 
+
+*Path Dependence*: how the probability of the outcome depend upon the sequence of past outcomes
+Path dependent outcomes
+Path dependent equilibrium
+
+
+*Urn Models* :
+Bernoulli
+Polya Process 
+Balancing
+
+*Random Walks*
+Finite memory random walks 
+Math  behind random walks concept
+
+*Concavity and Convexity in (Growth)*
+Four Models of Economic growth: 
+Exponential growth 
+Economic growth (using a primitive economy growth model)
+Solow’s growth model
+Extensions (continuity of growth)
+
+*Effects of Broadcast, Diffusion, Contagion on spreading information/diseases, etc.*
+
+*Markov Process*
+* *Equlibrium: how Lyapunov functions map models outcomes*
+
+
+### What do I 'now know' that I did not before?
+
+This week I learned about new model *Broadcasting* and how media can be a vital player in affecting society and wining against the enemy for example thinking about our current pandemic ‘COVID-19’ we can see the source (i.e government) how they can manage media (media like television, radio, or the internet-Social media and the web) to play a positive role spreading information about self-protection procedures (wearing face masks - Hygiene - Social Distancing) to contain the virus and in return protecting the society, even though this lived everyday and viewed by us on social media almost daily, but the actual model (broadcasting) was a new learning point for me
+
+
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+I observed that I had some weaknesses during learning .. summarised in understanding how SIR model works where I haven’t had previous knowledge on how the model works, this has lead me to go over the materials again for this week and researching media and web for examples; and now I can relate to an example in using the SIR model (susceptible, infected, recovered individuals & groups ) helping contain the spread of COVID-19 using 
+where they look good in containing the virus spread where this has add to my strengths column.
+
+
+
+
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+Challenges faced in this week was represented by understanding the broadcast model use.
+Where I had to get help from YouTube videos and shot courses overviews on what is the model in its basic definition, when to use the model and  how to use the formula as it is important form me as we were as a group have decided to use this model in the next week’s assignment, and from this I learned applying the following formula  adding this key learnings to my strength this week: 
+
+* I(t+1) = I(t) + (P(broad) . S(t));  where: 
+p (broad): broadcast probability.
+I (t): number of ‘informed’ people at a given time
+S(t): number of ‘susceptible’ people at a given time
+
+### What would I do better next time and with what anticipated results?
+For next time I would review the lecture topic ahead, before the lecture starts doing my pre-work as in the researching, so I have a knowledge of what  is going on and this is what I’m going to do next lecture starting from this weekend before my second class which is next week.
+
+
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+One good theory found useful for me in this week’s learning was the Granovetter Threshold theory in the Granovetter’s Riot Model,  where threshold models were used to model groups behaviours resulting in social influence, and this was clearly illustrated in the interesting example of the two cities (Town A & B) and how a bunch of ‘low threshold people’  (Town A) influence individuals to join the ‘store break in’ starting a riot, and then the higher threshold people in Town B how the guy holding the 1 threshold breaks into the store triggering people to call the cops, and creating no riots in that scenario.
+
+
+
+
+
+
+
