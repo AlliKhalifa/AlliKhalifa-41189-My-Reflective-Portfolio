@@ -147,16 +147,16 @@ Diversity (Average Variation) will be 1.6 with a crowd error of 7.1 giving an av
 For me this week was very useful and significant as I developed new learnings about the core ideas and dilemmas that we face daily as humans, especially for my case at my work as I go through many business processes  and how we could do it if we apply modelling, talking here about ‘Modelling people’ and how to apply it through using the following models: 
 
 
-**Rational**: How people use the ‘Optimise to Maximise’ concept in order to optimise for their goals
-**Behavioural**: this model uses observations of human behaviours, modelling them as close as possible in order to predict
+**Rational**: How people use the ‘Optimise to Maximise’ concept in order to optimise for their goal.
+
+**Behavioural**: this model uses observations of human behaviours, modelling them as close as possible in order to predict.
+
 **Rule-Based**: learnt interesting content about rule based in how psychology is used to understand some rules that people seems to be using predicting how they will (i.e. The Schelling model)
 
 
-**Signalling**: I learnt about its types (Continous & Discrete) but what more caught my attention is the ‘The girl in the foyer’ story that was one of the best stories that I read in long time, maybe because it relates to us as student going through our internships and looking for our experience in the near future, but what a great example to show the idea behind signalling, throwing herself  into the lion’s den to achieve her goal, which formed the ‘Costly Signalling Theory’
+**Signalling**: I learnt about its types (Continous & Discrete) but what more caught my attention is the ‘The girl in the foyer’ story that was one of the best stories that I read in long time, maybe because it relates to us as student going through our internships and looking for our experience in the near future, but what a great example to show the idea behind signalling, throwing herself  into the lion’s den to achieve her goal, which formed the ‘Costly Signalling Theory’.
+
 **Value and Power**: I learnt in this concept how that the collective output cannot be separated into individual components, how do we divide values and how it contributes toward the whole game value.
-
-
-
 
 
 
@@ -234,6 +234,74 @@ Personal Experience: And a situation that happened with me experiencing the (Fix
 
 
  
+
+
+
+# Week 4   
+
+
+```flow
+Representing human-centred complex systems
+```
+
+
+### What have I learnt this week?
+
+Based on this week’s learning outcome, I can say I have significantly improved my knowledge on the basic definition of a system and system thinking to *System Dynamics* models, learned more about their goal which is going feedbacks (positive & negative) and interdependencies to analyse a certain system, as well as identifying the system’s boundaries (i.e. swimming  pool & the ocean analogy) and how edges are clearly defined in the pool and stepping to the ocean (complex/larger system) after knowing how to think in systems in small system with clear boundaries, illustrated by diagrams (i.e. Casual Loop Diagrams), to the fundamental modes of interaction (Exponential growth, goal-seeking, and oscillation), to*Networks* theory, its structure (degree, path length, connectedness, and clustering coefficient), logic (ways a network can form: Random - Small world - Lattice) and its functionality (from *6 Degree of Separation form* to *Random Clique Network*)
+
+
+
+
+
+
+
+
+### What do I 'now know' that I did not before?
+
+I always thought I know what system thinking is based on ‘intuition’ but after going through this content for week 4, I realised I had a very little basic knowledge about how to think in terms of systems, and this is due to my limited knowledge in basic topic (definition of a system), and after I knew how to define a system through examples given in the lecture, I was able to define my point of view on how to think in systems taking into consideration the definition of System dynamics model and it’s parts which I was introduced to in this interesting lecture 
+
+
+
+
+
+
+
+
+
+### What insights have I gained?
+
+New insights I have gained and some key learning points are in:
+
+
+* System Dynamics: this concept introduced me to system-dynamics models that uses interdependencies and feedback to analyse the ‘system’ // NSERT CAHRT HERE that consists (sources, sinks, stocks, flows, rates, and constants) as well as I understood in depth and by examples what a system is and what does it consist of, to thinking in terms of systems how to acknowledge the fact that everything around us is *interconnected* and how all these small seperate parts connect together forming the system, and taking into consideration the *System Boundary* 
+
+
+
+
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+
+I have noticed throughout this week from my strengths that I feel confident 
+And my noticed weakness were th
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+One of the challenges is that I felt overwhelmed with the amount of new information at once
+the reason is that my problem relies in me as  take longer than can average person to understand a topic as I would like to cover all of the topic’s corners and subheading and how it works through several examples, for example when trying to understand ‘Thinking in systems’ concept, while the class have jumped to system dynamics I found it a bit hard to understand all the points of system dynamics while the lecture was going on, so I had to review it after the lecture with examples from the web.
+
+
+### What would I do better next time and with what anticipated results?
+
+Based on the challenges and weaknesses noticed this week, and taking the advantage from this reflective entry to understand myself in depth through experiences I had this week specifically, I can say that big improvement has happened in my way of thinking, for next time I would think differently for example in the case of covering topics during live lecture, I would focus more on examples of each topic more than its formal definition and listen carefully to questions asked from colleagues which I found out it helps in understanding what my concern is even though their question wasn’t related directly to my topic.
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+It is always a good idea in any..or when..  to take the context of a current situate or current traditions, and nowadays as we more and more reliable on the internet day after day and this is due to its strong, solid, and smart infrastructure, this infrastructure uses ‘Networks’ as a core to connect devices and people that keeps the whole world running. ‘Network Theory’ has proven its importance and usefulness, and the reason is those graph theories used, and the *Networks Structures* that forms a network playing a vital role in making network theory useful and solving its problems; to the *Logic of Network Formation* and how agents (nodes) make their decisions in connecting to other agents forming i.e. random, small-world, and lattice networks, and how when these nodes interact forming a *Network Function*, and this is very useful in the case of our current pandemic in fighting the virus and in a try to contain it faster and wiser as the example given on ‘Vaccination’ of the highly connected people in the society, like bus drivers, and teachers.
+
+
+
+
 
 
 
