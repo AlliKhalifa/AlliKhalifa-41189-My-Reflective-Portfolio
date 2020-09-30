@@ -411,9 +411,9 @@ Aggregation:
 
 
 
-1. **’Probability Distributions’:** 
+Probability Distributions’:
 -------------------------------------| 
-1.1 Normal Distributions:|
+ Normal Distributions:|
 - The bell curve (Mean = Mode = Median)|
 - Normal distributions variables (9 useful examples on close variables)|
 - The logic behind the equal distributions of variables through three types of distributions used : **Normal, Bell Curve or Gaussian distributions** in an order of **(Low IQ < Average IQ > High IQ)**|
@@ -421,33 +421,29 @@ Aggregation:
 
 
 
-1.2 **Central limit Theorem:**
+Central limit Theorem:
 -------------------------------------| 
-1.3 Applying distribution knowledge to socio-technical systems|
-1.4 Testing significance of mean values by using the regularity of the ‘normal distribution’|
-1.5 Six Segma quality control and how it applies in normal distributions|
+Applying distribution knowledge to socio-technical systems|
+Testing significance of mean values by using the regularity of the ‘normal distribution’|
+Six Segma quality control and how it applies in normal distributions|
+
+
+Power Law Distributions** which described by *Long/Heavy-tailed-Distributions*
+------------------------------------------------------------------------------------|
+Power laws (y = Cx^-a)|
+Power laws Parameters (a) which is the slope of the distributions|
+Zipf’s laws|
+Power Laws Models|
+Significance of Long Tail Distributions and how its described for beginners (Equity, Catastrophes)|
 
 
 
-2. **Power Law Distributions** which described by *Long/Heavy-tailed-Distributions*
-------------------------------------------------------------------------------------| 
-2.1 Power laws (y = Cx^-a)|
-2.2 Power laws Parameters (a) which is the slope of the distributions|
-2.3 Zipf’s laws|
-2.4. Power Laws Models|
-2.5. Significance of Long Tail Distributions and how its described for beginners (Equity, Catastrophes)|
-
-
-
-3. **Linear Variables**
+Linear Variables
 -------------------------------------| 
-3.1. Linear Regression
-
-3.2 Sign, Significance, and Magnitude.
-
-3.3 Multiple Variables
-
-3.4 examples on the ‘Big Coefficient vs New Reality Thinking’
+Linear Regression|
+Sign, Significance, and Magnitude|
+Multiple Variables|
+examples on the ‘Big Coefficient vs New Reality Thinking’|
 
 
 
