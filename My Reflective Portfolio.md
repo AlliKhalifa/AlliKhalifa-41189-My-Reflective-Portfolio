@@ -286,7 +286,31 @@ Representing human-centred complex systems
 
 ### What have I learnt this week?
 
-Based on this week’s learning outcome, I can say I have significantly improved my knowledge on the basic definition of a system and system thinking to *System Dynamics* models, learned more about their goal which is going feedbacks (positive & negative) and interdependencies to analyse a certain system, as well as identifying the system’s boundaries (i.e. swimming  pool & the ocean analogy) and how edges are clearly defined in the pool and stepping to the ocean (complex/larger system) after knowing how to think in systems in small system with clear boundaries, illustrated by diagrams (i.e. Casual Loop Diagrams), to the fundamental modes of interaction (Exponential growth, goal-seeking, and oscillation), to*Networks* theory, its structure (degree, path length, connectedness, and clustering coefficient), logic (ways a network can form: Random - Small world - Lattice) and its functionality (from *6 Degree of Separation form* to *Random Clique Network*)
+Based on this week’s learning outcome, I can say I have significantly improved my knowledge on the basic definition of a system and **system thinking** to **System Dynamics** models, learned more about their goal which is going 'feedbacks' (positive & negative) and 'interdependencies' to analyse a certain system, as well as identifying the system’s boundaries such as 
+
+swimming  pool   the ocean analogy
+---------------| -----------------
+
+
+As well as how edges are clearly defined in the pool and stepping to the ocean (complex/larger system) after knowing how to think in systems in small system first with clear boundaries, illustrated by diagrams such as:
+
+Casual Loop Diagrams   
+--------------------|
+
+
+to the fundamental modes of interaction: 
+
+- Exponential growth 
+- Goal-seeking, and oscillation
+
+into **Networks** theory, its: 
+- Degree
+_ Path length
+- Connectedness
+- Clustering coefficien              Random             Random             Lattice
+- Logic + ways a network can form: ----------------|---------------|----------------|
+
+and its functionality (from **6 Degree of Separation form** to **Random Clique Network**
 
 
 
