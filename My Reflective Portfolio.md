@@ -483,6 +483,76 @@ One good theory found useful for me in this week’s learning was the Granovette
 
 
 
+# Week 7
+
+```flow
+Complexity and Emergent Behaviour (Part 1)
+```
+
+
+
+### What have I learnt this week?
+
+I learnt from this week’s topic () Complexity and Emergent Behaviour a bunch of concepts and .. summarised in: 
+
+*Segregation & Peer Effects:*
+Schelling’s Segregation Mode
+Measuring Segregation
+ Granovetter's Model
+ Standing Ovation Model
+ And how to explore segregation in Netlogo
+
+
+*Coordination & Culture:*
+Introduction to culture and how it affects our behaviour according to Tyler, Boaz, & Trilling.
+Pure coordination model
+Emergence of culture
+Coordination and Consistency
+
+*Social Learning: Replicator Dynamics:*
+ Replicator Equation:
+ Fisher's Theorem
+
+
+
+
+### What do I 'now know' that I did not before?
+
+What I knew this week that I didn’t know before is the Replicator equation under the topic of Replicator dynamics that divides into three different disciplines:
+Psychology in order to model learning
+Economics that works on modelling population on people’s learn ing
+Ecology that models evolution
+
+
+### What insights have I gained?
+
+Upon going through this week’s lecture I have obtained new insights  about ‘Characterising Culture’ its survival , self-expression, traditional, and secular rational values and how to compare them graphically using geographical points showing people from different cultural backgrounds
+
+
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+Before my learnings in this week, and due to the promise I told myself to prepare on every week before the lecture starts I had to prepare as a pre-work on this week’s topic ‘Culture & Coordination’ but still my weakness showed up like on how ‘pure coordination model works’ which I then understood through the examples given in the lecture slides which were very interesting and easy to understand (Ketchup Question - Electric Plug -Driving on the Left and right).
+
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+Some topics were challenging for me to understand was the replicator equation, where I had to decompose it and substitute in numbers from real scenario related to social learning in order to understand it.
+
+
+### What would I do better next time and with what anticipated results?
+
+I see improvement needs to be done on the .. for the next time is to focus efforts on understating the concept basics first before going to the math of it, by other words to understand what each topic is talking about , how it applies on our context and then understand the (WHY) why an equation/model is needed in this model and then if this path is applied, I will guarantee understanding how related mathematical/statistical formulas work and why we should use it(importance of using it).
+
+
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+I learnt about Fisher Theorem in which was one of the theories I found interesting and super useful when it comes to 'Replicator Dynamics’. Which is the first and one of the most important game dynamic studied in connection with the evolutionary game theory 
+
+ 
+
+ 
 
 
 
