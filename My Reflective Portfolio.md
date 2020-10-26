@@ -836,7 +836,7 @@ I learnt as well from Fisher's Theorem how we can combine the three models:
 
 
 ```flow
-Representing human-centred complex systems
+Representing Human-Centred Complex Systems
 ```
 
 
@@ -847,8 +847,12 @@ Important elements were presented in this week’s module, where the main conten
 -------------------------------------------------------------|
 **i.** I learnt a strategy called (The Colonel Blotto Game) a very interesting game, which is a zero-sum game which players are meant to distribute limited given resources over different resources.|
 **ii.**  My second learning outcome was about cooperation illustrated through an interesting dilemma (Prisoner’s Dilemma), which is the most known game in ‘Game Theory’  where the game consists of two players who have the choice either to cooperate or they defect, which in case of cooperation both players get 4 as a payoff or 2 as a defect in the case of no cooperation, and if one of them defected, then the individual that chose to defect will get a 6 as a payoff.|
-**iii.** Ending with the third learning outcome a self study activity which was a ‘collective action problems’ talking about the real world problems and how they apply in contribution and how an individual makes choices to contribute using mathematical/statistical equations to prove that, comparing s the individual’s payoff, in case of cooperation and not cooperation using the formula: P= xi + ∑Xj|
+**iii.** Ending with the third learning outcome a self study activity which was a ‘collective action problems’ talking about the real world problems and how they apply in contribution and how an individual makes choices to contribute using mathematical/statistical equations to prove that, comparing s the individual’s payoff, in case of cooperation and not cooperation using the formula: 
 
+
+```flow 
+P= xi + ∑Xj|
+```
 
 
 
@@ -862,7 +866,9 @@ All of the three main topic I had no previous knowledge about, even though they 
 Colonel Blotto Game : I had no idea what this game is used for and how it works, but now after playing it against my colleagues in class and taking my time of thinking of a solution, I can say I had to use some skills and the concept was settled in my mind due to this experience
 Prisoner’s Dilemma: I have The idea of …but without me noticing nut I leant about it this week especially from the examples shown in it’s slide, and specifically (Trump vs Clinton) example.
 Collective Actions Problems (Cooperation): where I learnt about how to apply the equation:
-```flow P= xi + ∑Xj 
+
+```flow 
+P= xi + ∑Xj 
 ``` 
 that I didn’t know it exists and thinking that was cost cooperation and non-cooperation is estimated.
 
@@ -872,7 +878,7 @@ that I didn’t know it exists and thinking that was cost cooperation and non-co
 
 ### What insights have I gained?
 
-Talking about the Colonel Blotto Game I can say that form this concept I learned how to increase my chances of wining in any type of battle field applying it to real life problems
+Talking about the **Colonel Blotto Game** I can say that from this concept I learned how to increase my chances of wining in any type of battle field applying it to real life problems
 
 
 
@@ -893,4 +899,13 @@ Based on the challenges I had in this module and the perceived strengths and wea
 ### What theory proved to be useful and why? What have I learnt from this?
 
 
-A good theory I learned in this module and was proved useful was the **Colonel Blotto Game** theory as it is a well studied theory and my choice was due to the proven facts and results shown, and from what I learnt and from the main reason is because when we vary the two parameters of the game by changing the number of the battlefields or giving one of the players more resources than the other player we can get an insight of the likely to win players.
+A good theory I learned in this module and was proved useful was
+
+```flow
+The Colonel Blotto Game Theory
+```
+Since it is a well studied theory and my choice was due to the proven facts and results shown, and from what I learnt and from the main reason is because when we vary the two parameters of the game by changing the number of the battlefields or giving one of the players more resources than the other player we can get an insight of the likely to win players, and modestly I was blessed to win in that game as first place in our class which I didnt expect where I applied a very simple strategy that made the difference across all the class's strategy: 
+
+- Where I was the only one who put a large number (38) troops on the last castle (castle 10), sacrificing by this the small numbers castles puting zeros (0) in them.
+
+- I learnt too that in the **The Colonel Blotto Game** anyone can win after seeing the results and noticing that there are not much difference in numbers between the top 3 winners, where the winner could just do one simple thing different in their strategy, and what I did different is that I put alot of emphasis on the last castle to win it.
